@@ -12,7 +12,7 @@ const About = () => {
                     Hello! I'm Madhu, a web developer specializing in building engaging web applications. With expertise in HTML, CSS, JavaScript, and React, I am passionate about creating dynamic and user-friendly websites that provide exceptional experiences.
                 </p>
                 <br />
-                <p className='text-xl mt-14'>
+                <p className='text-xl'>
                     I have developed a strong foundation in front-end technologies, allowing me to bring designs to life and create visually appealing interfaces. Additionally, I have learned Java for web development, enabling me to handle complex data processing and deliver robust server-side functionality. With a focus on clean code and attention to detail, I strive to deliver high-quality solutions that meet clients' unique needs.
                 </p>
                 <br />

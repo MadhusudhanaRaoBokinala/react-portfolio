@@ -9,12 +9,14 @@ const About = () => {
                 </div>
 
                 <p className='text-xl mt-14'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempore maiores dicta error, ullam sed nobis enim ipsa eum itaque ea quasi necessitatibus soluta vel quos neque voluptas aut nesciunt id odio optio! Unde repudiandae deserunt ipsum! Hic maxime debitis dignissimos doloremque maiores dolore. Enim quas nesciunt consectetur omnis corporis.
+                    Hello! I'm Madhu, a web developer specializing in building engaging web applications. With expertise in HTML, CSS, JavaScript, and React, I am passionate about creating dynamic and user-friendly websites that provide exceptional experiences.
                 </p>
                 <br />
-                <p className='text-xl'>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto maiores accusantium laborum, assumenda sint vel eligendi velit quisquam facere deleniti exercitationem odit! Voluptatem quasi, velit dolor modi quod reprehenderit perspiciatis mollitia molestiae repudiandae ratione dolorum perferendis fugiat, unde ducimus! Quos quidem maiores eius eveniet tempore nesciunt ipsum dignissimos rem tenetur.
+                <p className='text-xl mt-14'>
+                    I have developed a strong foundation in front-end technologies, allowing me to bring designs to life and create visually appealing interfaces. Additionally, I have learned Java for web development, enabling me to handle complex data processing and deliver robust server-side functionality. With a focus on clean code and attention to detail, I strive to deliver high-quality solutions that meet clients' unique needs.
                 </p>
+                <br />
+                <p className='text-xl'>Thank you for visiting my portfolio! I invite you to explore my projects and get in touch for any inquiries or collaboration opportunities. Let's work together to create exceptional web experiences using HTML, CSS, JavaScript, React, and Java.</p>
             </div>
         </div>
     )
